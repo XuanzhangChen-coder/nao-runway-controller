@@ -1,0 +1,16 @@
+NAO Runway Controller - public reconstruction
+Copyright 2026 Xuanzhang Chen and Team TJArk contributors
+
+Project lead: Xuanzhang Chen (陈炫彰)
+Original team: Team TJArk, Tongji University
+
+The real robot integration used the B-Human Code Release 2024 framework. The
+public repository contains a framework-independent reimplementation of the
+team's runway-state and steering logic; it does not redistribute B-Human or
+TJArk source code, binaries, robot configuration, credentials, or build output.
+
+B-Human is developed by the B-Human team and is available under its own custom
+license: https://github.com/bhuman/BHumanCodeRelease/tree/coderelease2024
+
+NAO is a product name of its respective owner. This project is not affiliated
+with or endorsed by B-Human or the robot manufacturer.
